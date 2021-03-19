@@ -37,7 +37,27 @@ p {
 	
 }
 
+h1 {
+	font-family: 'Nunito Sans', sans-serif;
+	font-style: italic;
+	font-weight: 100;
+	font-size: 40px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.carouselheader {
+	color: #c1987c;
+	margin-top: 20px;
+}
+
 .nameposition {
 	background-color: #def0ef;
 	margin-top: 10px;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.carousel {
+	padding-top: 20px;
 }
