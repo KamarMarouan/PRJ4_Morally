@@ -8,6 +8,14 @@ a:link {
     background-color: #def0ef;
 }
 
-.nav {
+body {
 	font-family: 'Nunito Sans', sans-serif;
+}
+
+section {
+	background-color: #E6ECB7;
+}
+
+.col-4 {
+	margin-top: 10px;
 }
