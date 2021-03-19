@@ -4,7 +4,10 @@ a:link {
 }
        
 
-
 .justify-content-center {
     background-color: #def0ef;
+}
+
+.nav {
+	font-family: 'Nunito Sans', sans-serif;
 }
