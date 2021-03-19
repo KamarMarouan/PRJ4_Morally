@@ -8,7 +8,11 @@ Brown: #c1987c; */
 a:link {
     color: #c1987c;  
 }
-       
+
+a:visited {
+	color: #ffe69d ;
+}
+     
 
 .justify-content-center {
     background-color: #def0ef;
@@ -16,6 +20,18 @@ a:link {
 
 body {
 	font-family: 'Nunito Sans', sans-serif;
+}
+
+.navbarspacing {
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
+
+.bookmembership {
+	color:#ffe69d;
+	background-color: #c1987c;
+	margin-top: 6px;
+	margin-bottom: 6px;
 }
 
 section {
