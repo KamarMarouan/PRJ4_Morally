@@ -80,7 +80,7 @@ h1 {
 .social-icons{
 	text-align: center;
 }
-.social-icons a{
+.social-icons ul{
 	display: inline-block;
 	list-style-type: none;
 	-webkit-user-select: none;
@@ -91,11 +91,12 @@ h1 {
 	height: 30px;
 	margin-right: 20px;
 }
-.social-icons li a{
-	border-bottom: none;
+ul.social-icons li{
+	display: inline-block;
 }
+
 .footer{
-	margin-top: 10px;
-	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	background-color: #e6ecb7;
 }
