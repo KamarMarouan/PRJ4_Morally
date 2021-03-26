@@ -77,3 +77,24 @@ h1 {
 .carousel {
 	padding-top: 20px;
 }
+.social-icons{
+	text-align: center;
+}
+.social-icons a{
+	display: inline-block;
+	list-style-type: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+}
+.social-icons li img{
+	width: 30px;
+	height: 30px;
+	margin-right: 20px;
+}
+.social-icons li a{
+	border-bottom: none;
+}
+.footer{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
