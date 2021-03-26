@@ -1,10 +1,79 @@
+/*COLORS
+Blue: #def0ef ;
+Yellow: #ffe69d;
+Green: #e6ecb7;
+Red: #f2d4c3;
+Brown: #c1987c; */
 
 a:link {
     color: #c1987c;  
 }
-       
 
+a:visited {
+	color: #ffe69d ;
+}
+     
 
 .justify-content-center {
     background-color: #def0ef;
+}
+
+body {
+	font-family: 'Nunito Sans', sans-serif;
+}
+
+.navbarspacing {
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
+
+.bookmembership {
+	color:#ffe69d;
+	background-color: #c1987c;
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
+
+section {
+	background-color: #E6ECB7;
+}
+
+.col-4 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+p {
+	font-family: 'Nunito Sans', sans-serif;
+	font-style: italic;
+	font-weight: 100;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 10px;
+	
+}
+
+h1 {
+	font-family: 'Nunito Sans', sans-serif;
+	font-style: italic;
+	font-weight: 100;
+	font-size: 40px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.carouselheader {
+	color: #c1987c;
+	margin-top: 20px;
+}
+
+.nameposition {
+	background-color: #def0ef;
+	margin-top: 10px;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.carousel {
+	padding-top: 20px;
 }
