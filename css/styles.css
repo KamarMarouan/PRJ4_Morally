@@ -77,3 +77,44 @@ h1 {
 .carousel {
 	padding-top: 20px;
 }
+
+/*Footer styles*/
+
+.social-icons{
+	text-align: center;
+}
+.social-icons ul{
+	display: inline-block;
+	list-style-type: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+}
+.social-icons li img{
+	width: 30px;
+	height: 30px;
+	margin-right: 20px;
+}
+ul.social-icons li{
+	display: inline-block;
+}
+
+.footer{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #e6ecb7;
+}
+/*Footer styles end*/
+
+/*Book membership form styles*/
+.btn{
+	background-color: #c1987c;
+}
+form{
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: #c1987c;
+}
+/*Book membership form styles end*/
