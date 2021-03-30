@@ -118,3 +118,19 @@ form{
 	color: #c1987c;
 }
 /*Book membership form styles end*/
+.Justification {
+	color: #c1987c;
+	background-color: #e6ecb7;
+	font-weight: 100;
+	font-size: 40px;
+	text-align: center;
+
+}
+
+.Justification2 {
+	color: #c1987c;
+	background-color: #e6ecb7;
+	font-weight: 80;
+	font-size: 18px;	
+	text-align: left;
+}
