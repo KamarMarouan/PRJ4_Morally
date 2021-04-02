@@ -5,6 +5,8 @@ Green: #e6ecb7;
 Red: #f2d4c3;
 Brown: #c1987c; */
 
+/*Navbar */
+
 a:link {
     color: #c1987c;  
 }
@@ -34,50 +36,26 @@ body {
 	margin-bottom: 6px;
 }
 
-section {
-	background-color: #E6ECB7;
-}
+/* main */
 
-.col-4 {
-	margin-top: 10px;
-	margin-bottom: 10px;
+h1 {
+	text-align: center;
+	color: #C1987C;
+	font-weight: bold;
 }
 
 p {
-	font-family: 'Nunito Sans', sans-serif;
-	font-style: italic;
-	font-weight: 100;
-	font-size: 25px;
-	text-align: center;
-	margin-top: 10px;
+	color: #707070;
+	font-weight: 600;
 	
 }
 
-h1 {
-	font-family: 'Nunito Sans', sans-serif;
-	font-style: italic;
-	font-weight: 100;
-	font-size: 40px;
-	text-align: center;
-	margin-top: 10px;
+.logo {
+	width: 500px;
+	
 }
 
-.carouselheader {
-	color: #c1987c;
-	margin-top: 20px;
+#title2 {
+	color: #e6ecb7;
 }
 
-.nameposition {
-	background-color: #def0ef;
-	margin-top: 10px;
-	padding-top: 60px;
-	padding-bottom: 60px;
-}
-
-.carousel {
-	padding-top: 20px;
-}
-
-#about {
-	font-style: oblique;
-}
