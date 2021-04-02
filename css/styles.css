@@ -140,6 +140,15 @@ input{
 span img{
 	max-width: 300px;
 }
+.confirmation{
+	text-align: center;
+	color: #c1987c;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.btn btn-lg btn-success:hover{
+	background-color: #e6ecb7;
+}
 /*Form confirmation styles end*/
 
 .Justification {
