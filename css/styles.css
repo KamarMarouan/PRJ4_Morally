@@ -106,14 +106,17 @@ ul.social-icons li{
 /*Footer styles end*/
 
 /*Book membership form styles*/
-div.container membership{
+div.container-fluid membership{
 	position: relative;
 	display: block;
 	text-align: center;
+}
+.membership{
 	background-color: #def0ef;
 }
 .btn{
 	background-color: #c1987c;
+	border: 1px solid #c1987c;
 }
 form{
 	display: inline-block;
@@ -121,7 +124,6 @@ form{
 	padding-top: 20px;
 	padding-bottom: 20px;
 	color: #c1987c;
-	background-color: #def0ef;
 }
 label{
 	display: inline-block;
@@ -133,7 +135,12 @@ input{
 .btn{
 	color: #c1987c;
 }
-
+#waterlily{
+	padding-left: 60px;
+	padding-top: 20px;
+	float: right;
+	max-width: 300px;
+}
 /*Book membership form styles end*/
 
 /*Form confirmation styles*/
