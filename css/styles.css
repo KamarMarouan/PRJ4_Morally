@@ -138,7 +138,7 @@ input{
 
 /*Form confirmation styles*/
 span img{
-	max-width: 300px;
+	max-width: 200px;
 }
 .confirmation{
 	text-align: center;
@@ -146,7 +146,7 @@ span img{
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
-.btn btn-lg btn-success:hover{
+.btn:hover{
 	background-color: #e6ecb7;
 }
 /*Form confirmation styles end*/
