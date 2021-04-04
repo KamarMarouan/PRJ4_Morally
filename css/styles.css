@@ -204,3 +204,8 @@ span img{
 .logo {
 	width: 500px;
 }
+
+.picsize {
+	width: 130px;
+	height: 130px;
+}
