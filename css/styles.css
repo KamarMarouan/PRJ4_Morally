@@ -10,7 +10,7 @@ a:link {
 }
 
 a:visited {
-	color: #ffe69d ;
+	color: #c1987c ;
 }
      
 
@@ -208,4 +208,10 @@ span img{
 .picsize {
 	width: 130px;
 	height: 130px;
+}
+
+#book-membership {
+	margin-top: 7px;
+	border: 2px solid white;
+	font-weight: 600;
 }
