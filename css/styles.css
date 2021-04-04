@@ -10,12 +10,13 @@ a:link {
 }
 
 a:visited {
-	color: #ffe69d ;
+	color: #c1987c;
 }
      
 
 .justify-content-center {
     background-color: #def0ef;
+	color: #c1987c;
 }
 
 body {
@@ -27,12 +28,6 @@ body {
 	margin-bottom: 6px;
 }
 
-.bookmembership {
-	color:#ffe69d;
-	background-color: #c1987c;
-	margin-top: 6px;
-	margin-bottom: 6px;
-}
 
 section {
 	background-color: white;
@@ -47,7 +42,7 @@ p {
 	font-family: 'Nunito Sans', sans-serif;
 	font-style: italic;
 	font-weight: 200;
-	font-size: 25px;
+	font-size: 20px;
 	text-align: center;
 	margin-top: 10px;
 	
@@ -67,7 +62,7 @@ h1 {
 	font-family: 'Nunito Sans', sans-serif;
 	font-style: italic;
 	font-weight: 500;
-	font-size: 40px;
+	font-size: 30px;
 	text-align: center;
 	margin-top: 10px;
 }
@@ -122,10 +117,11 @@ div.container-fluid membership{
 .membership{
 	background-color: #def0ef;
 }
-.btn{
+.btn {
 	background-color: #c1987c;
 	border: 1px solid #c1987c;
 }
+
 form{
 	display: inline-block;
 	text-align: left;
@@ -204,3 +200,23 @@ span img{
 .logo {
 	width: 500px;
 }
+
+.img-fluid {
+	max-width: 100%;
+	height: auto;
+}
+
+#book-membership {
+	background-color:#c1987c;
+	border: solid 3px ;
+	color: white;
+	border-radius: 10px;
+	margin-top: 4px;
+
+}
+
+.img-fluid {
+	margin-top: 10px
+}
+
+
