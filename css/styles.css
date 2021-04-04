@@ -96,8 +96,6 @@ h1 {
 .social-icons ul{
 	display: inline-block;
 	list-style-type: none;
-	-webkit-user-select: none;
-	-moz-user-select: none;
 }
 .social-icons li img{
 	width: 30px;
