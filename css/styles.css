@@ -179,6 +179,21 @@ span img{
 	border: 5px black;
 }
 
+.Justification3 {
+	color: #c1987c;
+	background-color: #e6ecb7;
+	text-align: center;
+	font-size: 25px;
+	font-weight: 80px;
+}
+.Justification4 {
+	color: #c1987c;
+	background-color: #e6ecb7;
+	text-align: left;
+	font size; 18px;
+	
+}
+
 .service-title {
 	color: #c1987c;
 	font-weight: 200;
