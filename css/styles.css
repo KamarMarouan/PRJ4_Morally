@@ -190,7 +190,7 @@ span img{
 .Justification2 {
 	color: #c1987c;
 	background-color: #e6ecb7;
-	font-weight: 80;
+	font-weight: 100;
 	font-size: 18px;	
 	text-align: left;
 	border: 5px black;
@@ -201,7 +201,7 @@ span img{
 	background-color: #e6ecb7;
 	text-align: center;
 	font-size: 25px;
-	font-weight: 80px;
+	font-weight: 100;
 }
 .Justification4 {
 	color: #c1987c;
