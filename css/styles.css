@@ -5,8 +5,6 @@ Green: #e6ecb7;
 Red: #f2d4c3;
 Brown: #c1987c; */
 
-/*Navbar */
-
 a:link {
     color: #c1987c;  
 }
@@ -36,26 +34,169 @@ body {
 	margin-bottom: 6px;
 }
 
-/* main */
+section {
+	background-color: #E6ECB7;
+}
 
-h1 {
-	text-align: center;
-	color: #C1987C;
-	font-weight: bold;
+.col-4 {
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
 p {
-	color: #707070;
-	font-weight: 600;
+	font-family: 'Nunito Sans', sans-serif;
+	font-style: italic;
+	font-weight: 100;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 10px;
 	
 }
 
-.logo {
-	width: 500px;
-	
+.paragraphheader {
+	font-family: 'Nunito Sans', sans-serif;
+	font-style: italic;
+	font-weight: 100;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 10px;
+	color: #c1987c;
 }
 
-#title2 {
-	color: #e6ecb7;
+h1 {
+	font-family: 'Nunito Sans', sans-serif;
+	font-style: italic;
+	font-weight: 100;
+	font-size: 40px;
+	text-align: center;
+	margin-top: 10px;
 }
 
+.carouselheader {
+	color: #c1987c;
+	margin-top: 20px;
+}
+
+.nameposition {
+	background-color: #def0ef;
+	margin-top: 10px;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.carousel {
+	padding-top: 20px;
+}
+
+/*Footer styles*/
+
+.social-icons{
+	text-align: center;
+}
+.social-icons ul{
+	display: inline-block;
+	list-style-type: none;
+}
+.social-icons li img{
+	width: 30px;
+	height: 30px;
+	margin-right: 20px;
+}
+ul.social-icons li{
+	display: inline-block;
+}
+
+.footer{
+	padding-top: 30px;
+	padding-bottom: 10px;
+	background-color: #e6ecb7;
+}
+/*Footer styles end*/
+
+/*Book membership form styles*/
+div.container-fluid membership{
+	position: relative;
+	display: block;
+	text-align: center;
+}
+.membership{
+	background-color: #def0ef;
+}
+.btn{
+	background-color: #c1987c;
+	border: 1px solid #c1987c;
+}
+form{
+	display: inline-block;
+	text-align: left;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: #c1987c;
+}
+label{
+	display: inline-block;
+	width: 600px;
+}
+input{
+	background: #ffe69d;
+}
+.btn{
+	color: #c1987c;
+}
+#waterlily{
+	padding-left: 60px;
+	padding-top: 20px;
+	float: right;
+	max-width: 300px;
+}
+/*Book membership form styles end*/
+
+/*Form confirmation styles*/
+span img{
+	max-width: 200px;
+}
+.confirmation{
+	text-align: center;
+	color: #c1987c;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.btn:hover{
+	background-color: #e6ecb7;
+}
+/*Form confirmation styles end*/
+
+.Justification {
+	color: #c1987c;
+	background-color: #e6ecb7;
+	font-weight: 100;
+	font-size: 40px;
+	text-align: center;
+
+}
+
+.Justification2 {
+	color: #c1987c;
+	background-color: #e6ecb7;
+	font-weight: 80;
+	font-size: 18px;	
+	text-align: left;
+}
+
+.service-title {
+	color: #c1987c;
+	font-weight: 200;
+}
+
+.registerbutton {
+	margin-top: 50px;
+	margin-bottom: 30px;
+	}
+
+.btn {
+	background-color:#f2d4c3 ;
+}
+
+.servicepagecarousel {
+	background-color: #def0ef;
+}
