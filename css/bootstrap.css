@@ -4969,7 +4969,7 @@ input[type="button"].btn-block {
 }
 
 .accordion {
-  overflow-anchor: none;
+  overflow: none;
 }
 
 .accordion > .card {
