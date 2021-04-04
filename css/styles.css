@@ -176,6 +176,7 @@ span img{
 	font-weight: 80;
 	font-size: 18px;	
 	text-align: left;
+	border: 5px black;
 }
 
 .service-title {
