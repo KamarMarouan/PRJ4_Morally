@@ -306,7 +306,6 @@ span img{
 
 #contactname, #contactmail, #message {
 	width: 550px;
-	float: center;
 	background-color: #def0ef;
 	text-transform: uppercase;
 	border: none;
