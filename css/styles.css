@@ -251,7 +251,7 @@ span img{
 
 #contactform {
 	background-color: white;
-	box-shadow: -10px 0px 20px grey;
+	box-shadow: -10px 0px 20px #C1C1C1;
 	
 }
 
@@ -262,7 +262,7 @@ span img{
 #details {
 	background-color: #ffe69d;
 	margin-left: -50px;
-	box-shadow: -10px 0px 20px grey;
+	box-shadow: -10px 0px 20px #C1C1C1;
 	height: 250px;
 	margin-top: 20px;
 	
@@ -290,10 +290,17 @@ span img{
 	margin-bottom: 5px;
 	border-radius: 3px;
 	font-weight: 700;
-	
-	
+	color: #343434;
 	
 }
 
 
-
+#liveToastBtn {
+	margin-left: 230px;
+	margin-top: 10px;
+	background-color: #ffe69d;
+	font-weight: 700;
+	color: #343434;
+	padding-left: 30px;
+	padding-right: 30px;
+}
