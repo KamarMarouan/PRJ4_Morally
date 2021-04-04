@@ -157,6 +157,7 @@ span img{
 }
 .btn:hover{
 	background-color: #e6ecb7;
+	border: solid 2px white;
 }
 /*Form confirmation styles end*/
 
@@ -188,7 +189,8 @@ span img{
 	}
 
 .btn {
-	background-color:#f2d4c3 ;
+	background-color:#f2d4c3;
+	border: solid 2px white;
 }
 
 .servicepagecarousel {
