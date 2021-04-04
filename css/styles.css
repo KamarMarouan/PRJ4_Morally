@@ -252,6 +252,8 @@ span img{
 #contactform {
 	background-color: white;
 	box-shadow: -10px 0px 20px #C1C1C1;
+	margin-top: 20px;
+	margin-bottom: 20px;
 	
 }
 
@@ -264,20 +266,24 @@ span img{
 	margin-left: -50px;
 	box-shadow: -10px 0px 20px #C1C1C1;
 	height: 250px;
-	margin-top: 20px;
-	
+	margin-top: 55px;
+
 }
 
 .contactdetails {
 	list-style: none;
 	text-align: center;
-	margin-left: -50px;
+	margin-left: -49px;
+	line-height: 2.8;
+	font-family: 'Nunito Sans', sans-serif;
 }
 
 #contacth3 {
 	margin-top: 10px;
-	font-weight: 600;
+	font-weight: 700;
 	color: #343434;
+	margin-left: -16px;
+	font-size: 40px;
 	
 }
 
@@ -295,7 +301,7 @@ span img{
 }
 
 
-#liveToastBtn {
+#send{
 	margin-left: 230px;
 	margin-top: 10px;
 	background-color: #ffe69d;
@@ -304,3 +310,9 @@ span img{
 	padding-left: 30px;
 	padding-right: 30px;
 }
+
+.col-form-label {
+	width: 400px;
+}
+
+
