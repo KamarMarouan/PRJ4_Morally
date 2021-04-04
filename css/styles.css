@@ -252,6 +252,8 @@ span img{
 #contactform {
 	background-color: white;
 	box-shadow: -10px 0px 20px #C1C1C1;
+	margin-top: 20px;
+	margin-bottom: 20px;
 	
 }
 
@@ -307,4 +309,8 @@ span img{
 	color: #343434;
 	padding-left: 30px;
 	padding-right: 30px;
+}
+
+.col-form-label {
+	width: 400px;
 }
