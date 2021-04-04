@@ -52,6 +52,7 @@ html {
   }
 }
 
+
 .row {
   display: -ms-flexbox;
   display: flex;
@@ -65,6 +66,7 @@ html {
   margin-right: 0;
   margin-left: 0;
 }
+
 
 .no-gutters > .col,
 .no-gutters > [class*="col-"] {
