@@ -27,12 +27,6 @@ body {
 	margin-bottom: 6px;
 }
 
-.bookmembership {
-	color:#ffe69d;
-	background-color: #c1987c;
-	margin-top: 6px;
-	margin-bottom: 6px;
-}
 
 section {
 	background-color: white;
@@ -211,7 +205,7 @@ span img{
 }
 
 #book-membership {
-	margin-top: 7px;
+	margin-top: 6px;
 	border: 2px solid white;
 	font-weight: 600;
 }
