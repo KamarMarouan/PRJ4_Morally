@@ -35,7 +35,7 @@ body {
 }
 
 section {
-	background-color: #E6ECB7;
+	background-color: white;
 }
 
 .col-4 {
@@ -199,4 +199,8 @@ span img{
 
 .servicepagecarousel {
 	background-color: #def0ef;
+}
+
+.logo {
+	width: 500px;
 }
