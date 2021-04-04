@@ -113,14 +113,14 @@ div.container-fluid membership{
 	display: block;
 	text-align: center;
 }
-.membership{
+.membership {
 	background-color: #def0ef;
 }
-.btn{
+.btn {
 	background-color: #c1987c;
 	border: 1px solid #c1987c;
 }
-form{
+form {
 	display: inline-block;
 	text-align: left;
 	padding-top: 20px;
@@ -267,3 +267,33 @@ span img{
 	margin-top: 20px;
 	
 }
+
+.contactdetails {
+	list-style: none;
+	text-align: center;
+	margin-left: -50px;
+}
+
+#contacth3 {
+	margin-top: 10px;
+	font-weight: 600;
+	color: #343434;
+	
+}
+
+#contactname, #contactmail, #message {
+	width: 550px;
+	float: center;
+	background-color: #def0ef;
+	text-transform: uppercase;
+	border: none;
+	margin-bottom: 5px;
+	border-radius: 3px;
+	font-weight: 700;
+	
+	
+	
+}
+
+
+
