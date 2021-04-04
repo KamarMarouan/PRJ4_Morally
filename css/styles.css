@@ -190,7 +190,7 @@ span img{
 	color: #c1987c;
 	background-color: #e6ecb7;
 	text-align: left;
-	font size; 18px;
+	font-size: 18px;
 	
 }
 
@@ -246,5 +246,24 @@ span img{
 
 #anythingyouwouldliketoadd {
 	margin-left: 5px;
+	
+}
+
+#contactform {
+	background-color: white;
+	box-shadow: -10px 0px 20px grey;
+	
+}
+
+#contactp {
+	font-size: 16px;
+}
+
+#details {
+	background-color: #ffe69d;
+	margin-left: -50px;
+	box-shadow: -10px 0px 20px grey;
+	height: 250px;
+	margin-top: 20px;
 	
 }
