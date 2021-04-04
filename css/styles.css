@@ -144,7 +144,13 @@ input{
 	max-width: 300px;
 }
 /*Book membership form styles end*/
-
+/*Testimonials page*/
+.testimonials{
+	color: #c1987c;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
 /*Form confirmation styles*/
 span img{
 	max-width: 200px;
