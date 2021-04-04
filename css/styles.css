@@ -211,3 +211,19 @@ span img{
 	border: 2px solid white;
 	font-weight: 600;
 }
+
+.container {
+	text-align: center;
+	border-radius: 50px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.form-check-label, .col-form-label{
+	text-align: left;
+}
+
+#submit {
+	margin-top: 50px;
+	margin-left: 60px;
+}
