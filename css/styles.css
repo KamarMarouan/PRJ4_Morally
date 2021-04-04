@@ -43,6 +43,10 @@ section {
 	margin-bottom: 10px;
 }
 
+h5 {
+	font-size: 15px;
+}
+
 p {
 	font-family: 'Nunito Sans', sans-serif;
 	font-style: italic;
@@ -209,3 +213,5 @@ span img{
 	width: 130px;
 	height: 130px;
 }
+
+
