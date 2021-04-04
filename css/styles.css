@@ -151,6 +151,17 @@ input{
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
+.card-title{
+	text-align: center;
+	color: #c1987c;
+}
+.card{
+	background-color: #e6ecb7;
+}
+.card-text{
+	color: #c1987c;
+}
+
 /*Form confirmation styles*/
 span img{
 	max-width: 200px;
